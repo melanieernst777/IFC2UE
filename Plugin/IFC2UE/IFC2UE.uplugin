@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "IFC2UE",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Melanie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "IFC2UE",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
